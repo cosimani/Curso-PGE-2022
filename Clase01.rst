@@ -41,7 +41,7 @@ Instalación de herramientas
 :Regularidad: 
 	- Primer parcial: Trabajo práctico individual para resolver en 2 horas (quizás sea para la primer quincena de octubre).
 	- Segundo parcial: Promedio de todos los MiniExámenes.
-	- MiniExamen: Cada semana se toma un práctico individual para resolver en 30 minutos.
+	- MiniExamen: Cada semana (los jueves) se toma un práctico individual para resolver en 30 minutos.
 	- Recuperatorios: Se pueden recuperar ambos parciales durante la última semana de cursado. El recuperatorio del primer parcial es un práctico individual para resolver en 2 horas. El recuperatorio del segundo parcial tiene una parte práctica para resolver en 1 hora y una parte teórica para responder oralmente.
 	- Opcionalmente se puede realizar un trabajo práctico individual o dos alumnos para entregar como examen final. Para el examen final se debe entregar un video mostrando la funcionalidad del proyecto y mostrando cómo aplicaron cada tema en el proyecto. Realizar el trabajo práctico evita el primer parcial pero no los MiniExámenes.
 
