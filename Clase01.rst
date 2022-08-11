@@ -6,6 +6,14 @@ Clase 01 - PGE 2022
 ===================
 (Fecha: 9 de agosto)
 
+
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Introducción a PGE 2021 <https://youtu.be/_qqrQ-OOWsg>`_
+
+
+
 :Autor: César Osimani
 :Correo: cesarosimani@gmail.com
 

@@ -6,6 +6,14 @@ Clase 02 - PGE 2022
 ===================
 (Fecha: 11 de agosto)
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Plantillas 2021 <https://youtu.be/Wxm7r-MxAYI>`_
+
+`Clase genérica Listado 2021 <https://youtu.be/aH-kcShF1xA>`_
+
+
     
 Plantillas
 ==========
