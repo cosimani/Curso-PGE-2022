@@ -88,10 +88,10 @@ MiniExamen 01
 
 **Para lo próximo**
 
-- Crear un grupo de WhatsApp para estar en contacto al instante
-- Cada MiniExamen será individual y tendrá diferencias según el caso
-- El docente evaluará qué temas hay que reforzar para cada estudiante y según eso será el MiniExamen
-- Enviar a cesarosimani@gmail.com una cuenta para compartir carpeta del Drive para compartir los MiniExámenes
+- Cada MiniExamen será individual y tendrá diferencias según el caso.
+- El docente evaluará qué temas hay que reforzar para cada estudiante y según eso será el MiniExamen.
+- Crear un grupo de WhatsApp para estar en contacto al instante. Crear link para sumarse.
+- Enviar a cesarosimani@gmail.com una cuenta para compartir carpeta del Drive para compartir los MiniExámenes.
 
 
 
