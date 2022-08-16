@@ -169,7 +169,7 @@ Ejercicio 1
 
 .. code-block:: c
 
-void erase( int i )
+	void erase( int i )
 
 - Agregar el método que elimine un elemento del final.
 
