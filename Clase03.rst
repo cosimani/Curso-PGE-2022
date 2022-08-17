@@ -9,8 +9,6 @@ Clase 03 - PGE 2022
 
 `Clase Listado con métodos extras 2021 <https://youtu.be/JDt2nDk08L4>`_
 
-`Herencia con clases genéricas 2021 <https://youtu.be/FhUebWDCrXk>`_
-
 `Sobrecarga de operadores 2021 <https://youtu.be/QGTNAjeRdNg>`_
 
 
@@ -144,20 +142,6 @@ Siguiendo con clases genéricas
 
 - Modificar listado.h para que todos sus métodos queden definidos de manera off-line
 
-
-
-Herencia con clases genéricas
-=============================
-
-.. code-block:: c
-
-    template< class T > class Lista : public Listado< T >  {
- 
-        //////////
-
-    };
-
-- Tener presente que si heredamos de una clase genérica ``QVector`` o ``std::vector`` ya no es necesario definir las características de almacenamiento en la clase derivada. Es decir, ya no debemos definir ``libre``, ``T * v``, ``cantidad``, ``get``, ``add`` o ``size``.
 
 
 
