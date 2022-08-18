@@ -7,6 +7,9 @@ Clase 03 - PGE 2022
 (Fecha: 16 de agosto)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 `Clase Listado con métodos extras 2021 <https://youtu.be/JDt2nDk08L4>`_
 
 `Sobrecarga de operadores 2021 <https://youtu.be/QGTNAjeRdNg>`_
