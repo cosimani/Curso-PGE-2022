@@ -13,9 +13,6 @@ Registro en video de algunos temas de la clase de hoy
 
 `Sobrecarga de operadores con clases genéricas 2021 <https://youtu.be/qEvTlUbpsZc>`_
 
-`Variantes de herencia con clases genéricas 2021 <https://youtu.be/rttDmneFJ3s>`_
-
-
 
 
 Herencia con clases genéricas
