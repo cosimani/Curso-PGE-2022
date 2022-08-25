@@ -118,3 +118,7 @@ Ejercicio 1
 - El primer operador suma la altura de los dos Postes y devuelve la altura total.
 - El segundo operador le suma una altura particular a un Poste y devuelve un nuevo Poste con esa altura sumada.
 - En la función main probar estos operadores.
+
+
+**Disponible en Drive el Mini Examen 2**
+
