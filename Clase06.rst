@@ -110,3 +110,10 @@ Ejercicio 3
 
 
 **Disponible en Drive el Mini Examen 3**
+
+`Resolución del Mini Examen 3 - Opción A - Camion con Troncos <https://youtu.be/BR-2bCSyOw8>`_
+
+`Resolución del Mini Examen 3 - Opción B - Colectivo con Personas <https://youtu.be/h2UWnGgKAqo>`_
+
+Códigos y enunciados `aquí <https://github.com/cosimani/Curso-PGE-2022/blob/main/recursos/miniexamen3.rar?raw=true>`_
+
