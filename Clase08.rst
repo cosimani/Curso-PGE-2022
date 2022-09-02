@@ -29,3 +29,13 @@ Instrucciones
 - Se debe reproducir de manera exacta
 - El único material que se puede utilizar son las clases de POO y PGE que están en el github de estas materias y búsquedas simples en google para revisar sintaxis
 - Se debe grabar la pantalla con OBS y se entrega subiendo el video a Youtube en forma oculta o No listada
+
+
+Resolución de los Mini Exámenes 3
+=================================
+
+`Resolución del Mini Examen 3 - Opción A - Camion con Troncos <https://youtu.be/BR-2bCSyOw8>`_
+
+`Resolución del Mini Examen 3 - Opción B - Colectivo con Personas <https://youtu.be/h2UWnGgKAqo>`_
+
+`Códigos y enunciados aquí <https://github.com/cosimani/Curso-PGE-2022/blob/main/recursos/miniexamen3.rar?raw=true>`_
