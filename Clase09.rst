@@ -377,7 +377,7 @@ Opciones para regularizar y rendir final
 - Segundo parcial - opción 1: Promedio con Desafíos y Mini Exámenes
 - Segundo parcial - opción 2: Enunciado para resolver durante la clase - 10 de noviembre
 - Proyecto - opción 1: Hasta 2 estudiantes. Proponer un proyeto para ejecutar en Android.
-- Proyecto - opción 1: Hasta 3 estudiantes. Proponer un proyeto para ejecutar en Android y dejar disponible en Google Play Store.
+- Proyecto - opción 2: Hasta 3 estudiantes. Proponer un proyeto para ejecutar en Android y dejar disponible en Google Play Store.
 - Junto al proyecto se debe entregar un video en Youtube donde se expongan los cada uno de los temas de los contenidos mínimos. `Ver aquí un ejemplo de cómo entregar proyecto <https://youtu.be/VRrMuFUz61w>`_ 
 - Con el proyecto se puede rendir el final y se evita rendir el primer parcial (no así el segundo).
 - Contenidos mínimos: `Ver aquí los temas teóricos <https://github.com/cosimani/Curso-PGE-2022/blob/main/Desafios.rst>`_ 
