@@ -11,6 +11,8 @@ Registro en video de algunos temas de la clase de hoy
 
 `Variantes de herencia con clases genéricas y Ejemplos con Mundos y Personas 2021 <https://youtu.be/rttDmneFJ3s>`_
 
+`Clases genéricas con argumento por defecto 2021 <https://youtu.be/Gc_F-GfuI4E>`_
+
 
 
 
@@ -21,6 +23,7 @@ Para analizar
 
 
 **Tener presente qué sucede cuando se crea un Listado de algún tipo de puntero. ¿Qué sucede en memoria?**
+
 
 
 
