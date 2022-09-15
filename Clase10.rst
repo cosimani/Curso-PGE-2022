@@ -74,7 +74,7 @@ Ejercicio 3
 ===========
 
 - Utilizar una clase Login creada anteriormente (o crear una nueva) para generar una librería dinámica .dll (en Windows) o .so (en Linux o Mac).
-- Login deberá tener caracaterísticas de ser una clase independiente, es decir, que se puedan utilizar en cualquier proyecto sin necesidad de modificarla.
+- Login deberá tener caracaterísticas de ser una clase independiente, es decir, que se pueda utilizar en cualquier proyecto sin necesidad de modificarla.
 
 
 
