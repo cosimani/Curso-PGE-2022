@@ -70,6 +70,14 @@ Ejercicio 2
 - Adaptar para que el ordenamiento se pueda realizar utilizando punteros. Proponer una solución a esto. 
 
 
+Ejercicio 3
+===========
+
+- Utilizar una clase Login creada anteriormente (o crear una nueva) para generar una librería dinámica .dll (en Windows) o .so (en Linux o Mac).
+- Login deberá tener caracaterísticas de ser una clase independiente, es decir, que se puedan utilizar en cualquier proyecto sin necesidad de modificarla.
+
+
+
 Resolver el desafío correspondiente al Mini Examen 5
 ====================================================
 
