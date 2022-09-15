@@ -7,6 +7,14 @@ Clase 09 - PGE 2022
 (Fecha: 13 de septiembre)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Declaración adelantada - miembros static - operador global 2021 <https://youtu.be/falta subirlo a youtube Declaración adelantada - miembros static - operador global.mp4>`_
+
+`eventFilter 2021 <https://youtu.be/ldUi95t49mo>`_
+
+
 
 static
 ======
