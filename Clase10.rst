@@ -58,6 +58,7 @@ Ejercicio 1
 - Por lo tanto, si deseamos que ``MiVector`` pueda contener elementos de cualquier tipo, y además deseamos ordenarlos, entonces estos elementos deberan cumplir la caraccterística de ser "comparables". Esto es muy familiar cuando se trabaja en Java.
 - Definir clases comparables eligiendo la/las característica/s que permitan comparar dichos objetos entre ellos.
 - Entre las clases que se pueden definir como comparables están: ``Persona``, ``Poste``, ``Cliente``, ...
+- Agregar un método en la clase genérica ``MiVector`` que ordene los elementos. Que el método sea ``void ordenar_de_mayor_a_menor();``
 - Probar el funcionamiento del ordenamiento utilizando ``MiVector< Persona >``, ``MiVector< Poste >``, ``MiVector< int >``.
 - Mostrar los resultados en un ``QTextEdit`` en lugar de visualizarlo directamente por consola.
 
