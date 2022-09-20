@@ -239,3 +239,11 @@ Ejercicio 2
 
 .. figure:: images/win10.png
 
+
+Ejercicio 3
+===========
+
+- Diseñar otra interfaz inspirada en la siguiente:
+
+.. figure:: images/interfaz_ejemplo.jpg
+
