@@ -74,5 +74,9 @@ Ejercicio 2
 - El campo para el usuario del Login tiene que ser la clase LineaDeTexto, que tiene incorporado el mecanismo de recomendaciones
 - Para las recomendaciones que se vaya generando una lista que vaya incorporando cada numbre de usuario que se use
 
+Trabajos prácticos varios
+=========================
 
+- En la siguiente carpeta se comparten distintos trabajos prácticos que pueden servir para definir proyectos finales y realizar prácticas 
+- `Carpeta de Google Drive con trabajos prácticos <https://drive.google.com/drive/folders/1m9v_d4HogNg_pRUnYKiu05nGDMfGDThH?usp=sharing>`_
 
