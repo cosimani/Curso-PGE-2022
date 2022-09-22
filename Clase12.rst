@@ -78,5 +78,6 @@ Trabajos prácticos varios
 =========================
 
 - En la siguiente carpeta se comparten distintos trabajos prácticos que pueden servir para definir proyectos finales y realizar prácticas 
+- Estos trabajos fueron propuestos para PGE en el año 2020
 - `Carpeta de Google Drive con trabajos prácticos <https://drive.google.com/drive/folders/1m9v_d4HogNg_pRUnYKiu05nGDMfGDThH?usp=sharing>`_
 
