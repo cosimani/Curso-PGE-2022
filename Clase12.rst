@@ -9,9 +9,9 @@ Clase 12 - PGE 2022
 Registro en video de algunos temas de la clase de hoy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`Explicación de QMainWindow 2021 <https://youtu.be/ldxQrBTjio0>`_
+`Explicación de QMainWindow 2020 <https://youtu.be/ldxQrBTjio0>`_
 
-`Creación de una interfaz con QMainWindow 2021 <https://youtu.be/fNS2Wyf-PaY>`_
+`Creación de una interfaz con QMainWindow 2020 <https://youtu.be/fNS2Wyf-PaY>`_
 
 QMainWindow
 ===========
