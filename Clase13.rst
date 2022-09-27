@@ -7,6 +7,12 @@ Clase 13 - PGE 2021
 (Fecha: 23 de septiembre)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Singleton 2021 <https://youtu.be/RNAZ0pu-Ybc>`_
+
+
 
 
 Uso de singleton
