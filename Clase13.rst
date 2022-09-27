@@ -12,7 +12,7 @@ Clase 13 - PGE 2021
 Uso de singleton
 ================
 
-.. figure:: images/clase18_singleton.png
+.. figure:: images/singleton.png
 
 
 Ejemplo de AdminDB como singleton
