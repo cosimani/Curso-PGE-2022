@@ -64,7 +64,7 @@ Ejercicio 1
 - Crear un editor de código fuente (como el NotePad++ o el Sublime Text).
 - Utilice un buen paquete de íconos.
 - Que tenga las funcionalidades más comunes de los editores de texto.
-- `Avances hecho en clases <https://drive.google.com/drive/folders/1XVZZ_CbSNYzjz3LIQbBJ0Y6kpCs44JNi?usp=sharing>`_
+- `Avances realizados en clases <https://drive.google.com/drive/folders/1XVZZ_CbSNYzjz3LIQbBJ0Y6kpCs44JNi?usp=sharing>`_
 
 
 Ejercicio 2

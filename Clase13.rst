@@ -316,6 +316,7 @@ Preparándonos para el parcial:
 Ejercicio 1
 ===========
 
+- `Avances realizados en clases <https://drive.google.com/drive/folders/1XVZZ_CbSNYzjz3LIQbBJ0Y6kpCs44JNi?usp=sharing>`_
 - Modificar el ejemplo anterior para que Manager, Login y Formulario sean singletons.
 - Definir una clase Ventana que tenga una imagen de background, que Ventana sea singleton y agregarle objetos Boton para distintas acciones.
 - Definir estas clases independientes para luego controlarlas a través de un Manager.
