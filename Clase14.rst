@@ -76,7 +76,19 @@ Ejercicio 2:
 Ejercicio 3:
 ============
 
-- 
+- Diseño de GUI pensando en smart phone
+- Usar fuentes propias. ``QFontDatabase::addApplicationFont( ":/resources/fuentes/angelina.ttf" );``
+- Diseñar un interfaz con botones propios que usen estas fuentes.
+
+
+Ejercicio 4:
+============
+
+- Pensar en el diseño de una API propia para validar usuarios
+- Disponer de un servidor con PHP y MySQL para tener la base de datos con una tabla para usuarios
+- Escribir un script para validar los usuarios en esa API
+- Desarrollar un Login independiente que use un ``QNetworkAccessManager`` para validar contra la API
+
 
 
 
