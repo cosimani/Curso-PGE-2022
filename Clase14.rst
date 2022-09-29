@@ -57,7 +57,25 @@ Ejercicio 1:
 Ejercicio 2:
 ============
 
-.. figure:: images/medidor.jpg
+- Diseñar una clase Medidor que sirva para saber si la conexión a internet es buena
+- Es un singleton
+- ``bool isOk();`` indica si la conexión es buena o no.
+- Debe ser una clase independiente
+- La instancia de esta clase permitirá hacer lo siguiente:
+
+.. code-block:: c++
+	if ( Medidor::getInstancia()->isOk() )  {
+		manager->get( QNetworkRequest( QUrl( "http://mi.ubp.edu.ar" ) ) );
+	} 
+	else  {
+		QMesaggeBox::critical( this, "Internet", "Muy lenta" );
+	}
+
+
+Ejercicio 3:
+============
+
+- 
 
 
 
