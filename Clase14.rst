@@ -45,8 +45,60 @@ Clase QThread
 Ejemplo: Clase Factorial
 ========================
 
-.. figure:: images/factorial.png
+.. code-block:: c++
 
+	class Factorial : public QThread  {
+	    Q_OBJECT
+
+	public:
+	    Factorial( QObject * parent = nullptr );
+	    ~Factorial();
+	    void setNumero( unsigned int numero );
+
+	private:
+	    unsigned int numero;
+
+	protected:
+	    void run();
+
+	signals:
+	    void signal_resultado( double resultado );
+	}
+
+.. code-block:: c++
+
+	Factorial::Factorial( QObject * parent ) : QThread( parent ), numero( 1 )  {
+
+	}
+
+	Factorial::~Factorial()  {  
+
+	}
+
+	void Factorial::setNumero( unsigned int numero )  {
+	    if ( numero <= 0 )  {
+	        this->numero = 1;
+	    }
+	    this->numero = numero;
+	}
+
+	void Factorial::run()  {
+	    double resultado = 1;
+
+	    for ( unsigned int i = 0 ; i <= numero ; i++ )  {
+	        resultado = resultado * i;
+	    }
+
+	    emit signal_resultado( resultado );
+	}
+
+
+Ejercicio 1:
+============
+
+- Implementar la clase Factorial en una aplicación
+- Crear una GUI que solicite el número para calcular el factorial.
+- La interfaz no se debe colgar/tildar.
 
 Ejercicio 1:
 ============
