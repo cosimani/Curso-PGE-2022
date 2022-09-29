@@ -64,6 +64,7 @@ Ejercicio 2:
 - La instancia de esta clase permitirá hacer lo siguiente:
 
 .. code-block:: c++
+
 	if ( Medidor::getInstancia()->isOk() )  {
 		manager->get( QNetworkRequest( QUrl( "http://mi.ubp.edu.ar" ) ) );
 	} 
