@@ -100,13 +100,13 @@ Ejercicio 1:
 - Crear una GUI que solicite el número para calcular el factorial.
 - La interfaz no se debe colgar/tildar.
 
-Ejercicio 1:
+Ejercicio 2:
 ============
 	
 - Diseñar una aplicación GUI que escriba en un archivo muchísimos caracteres de tal forma se note que la interfaz de usuario se bloquea hasta finalizar la escritura.
 - Luego de esto, utilizar un hilo distinto para escribir la misma cantidad de caracteres.
 
-Ejercicio 2:
+Ejercicio 3:
 ============
 
 - Diseñar una clase Medidor que sirva para saber si la conexión a internet es buena
@@ -125,7 +125,7 @@ Ejercicio 2:
 	}
 
 
-Ejercicio 3:
+Ejercicio 4:
 ============
 
 - Diseño de GUI pensando en smart phone
@@ -133,7 +133,7 @@ Ejercicio 3:
 - Diseñar un interfaz con botones propios que usen estas fuentes.
 
 
-Ejercicio 4:
+Ejercicio 5:
 ============
 
 - Pensar en el diseño de una API propia para validar usuarios
