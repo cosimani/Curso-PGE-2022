@@ -66,10 +66,10 @@ Ejercicio 2:
 .. code-block:: c++
 
 	if ( Medidor::getInstancia()->isOk() )  {
-		manager->get( QNetworkRequest( QUrl( "http://mi.ubp.edu.ar" ) ) );
+	    manager->get( QNetworkRequest( QUrl( "http://mi.ubp.edu.ar" ) ) );
 	} 
 	else  {
-		QMesaggeBox::critical( this, "Internet", "Muy lenta" );
+	    QMesaggeBox::critical( this, "Internet", "Muy lenta" );
 	}
 
 
