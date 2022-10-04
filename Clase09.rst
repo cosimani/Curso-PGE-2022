@@ -339,6 +339,62 @@ Captura de eventos con eventFilter
 
 
 
+
+
+
+	
+
+**Declaración adelantada**
+
+- Una clase genérica puede tener una declaración adelantada:
+
+.. code-block:: c
+	
+	template < class T > class Listado;
+
+
+- Pero debe ser definida antes de ser usada:
+
+.. code-block:: c
+	
+	template < class T > class Listado  {
+
+
+	};
+
+
+**Miembros estáticos**
+
+.. code-block:: c
+	
+	template < class T > class Listado  {
+	public:
+
+	    static bool activado;
+
+	};
+
+	template < class T > bool Listado< T >::Activado = false;
+
+
+**Sobrecarga de operadores globales**
+
+- Un operador global es una función que no pertenece a ninguna clase.
+
+.. code-block:: c
+	
+	Poste operator+( int sumando, Posta otro )  {
+	    Poste res;
+	    res.setAltura( sumando + otro.getAltura() );
+	    return res;
+	}
+
+
+
+
+
+
+
 Ejercicio 1
 ===========
 
@@ -390,5 +446,7 @@ Opciones para regularizar y rendir final
 - Con el proyecto se puede rendir el final y se evita rendir el primer parcial (no así el segundo).
 - Contenidos mínimos: `Ver aquí los temas teóricos <https://github.com/cosimani/Curso-PGE-2022/blob/main/Desafios.rst>`_ 
 - Objetivos de la asignatura: Poder explicar oralmente los contenidos mínimos, escribir código relacionado y tener destreza para crear aplicaciones que incluyan estos temas (tener presente que PGE es la continuación de POO, por lo tanto, se requieren también los conocimientos de POO).
+
+
 
 
