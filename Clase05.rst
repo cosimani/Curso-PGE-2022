@@ -141,6 +141,31 @@ Ejemplo 1
 
 
 
+
+**Clase genérica con argumento por defecto**
+
+- El tipo puede omitirse pero no el ``<>``
+
+.. code-block:: c
+	
+	template < class T = Real > class Mundo : public T  {
+	private:
+	    QString nombre;
+
+	public:
+	    Mundo( QString nombre, int dato ) : T( dato ), nombre( nombre )  {  }
+	};
+
+	int main( int argc, char ** argv )  {
+	    Mundo<> mundo1( "Tierra", 10000 );
+	    Mundo<> * mundo2 = new Mundo<>( "Marte", 256 );
+	    Mundo< Virtual > mundo3( "Pacman", 16 );
+
+	    return 0;
+	}
+
+
+
 Ejemplo 2
 =========
 
