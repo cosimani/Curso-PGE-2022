@@ -15,7 +15,7 @@ typeid
 - Comprueba si un objeto es de un tipo específico.
 - O bien, si dos objetos son del mismo tipo.
 - Este tipo de identificador en tiempo de ejecución se conoce como RTTI (Run-Time Type Identification).
-- typiid devuelve una referencia a un objeto de tipo const type_info.
+- typeid devuelve una referencia a un objeto de tipo const type_info.
 
 .. code-block:: c++
 
@@ -50,7 +50,7 @@ typeid
 
 
 - Dispone de los operadores ``==`` y ``!=``
-- Con os cuales podremos preguntar:
+- Con los cuales podremos preguntar:
 
 .. code-block:: c++
 			
@@ -58,7 +58,7 @@ typeid
 	    cout << "Son iguales";
 
 - Es necesario incluir ``<typeinfo>``
-- Dispone del método ``name()`` que nos da datos del objeto devuelto por ``typeid``.
+- Dispone del método ``name()`` que nos entrega información del objeto devuelto por ``typeid``.
 - Los nombres de los tipos no está normalizado, dependerá del compilador.
 
 
@@ -214,33 +214,57 @@ Uso de dynamic_cast. Uso de typeid
 	}
 
 
+
 Ejercicio 2
 ===========
 
-- Crear objetos comparables: Persona (sin herencia), Login (hereda de QWidget), Imagen (hereda de QImage)
+- Demostrar de alguna manera si ``type_info`` tiene el constructor copia público o privado.
+- Luego revisar el archivo de cabecera de ``type_info`` para corroborar.
+- Como ayuda el siguiente código:
+
+.. code-block:: c++
+
+	void funcion( std::type_info info )  {
+	    qDebug() << info.name();
+	}
+
+	int main( int argc, char ** argv )  {
+	    QApplication a( argc, argv );
+
+	    const std::type_info & ref = typeid( int );
+        qDebug() << ref.name();
+
+	    return 0;
+	}
+
 
 Ejercicio 3
 ===========
 
-- AdminDB con todas las funcionalidades y singleton
+- Crear objetos comparables: Persona (sin herencia), Login (hereda de QWidget), Imagen (hereda de QImage)
 
 Ejercicio 4
 ===========
 
-- Crear una clase Archivador, que sea singleton y permita almacenar Logs en un archivo de texto.
+- AdminDB con todas las funcionalidades y singleton
 
 Ejercicio 5
+===========
+
+- Crear una clase Archivador, que sea singleton y permita almacenar Logs en un archivo de texto.
+
+Ejercicio 6
 ===========
 
 - LineaDeTexto listo para promocionar y con dos opciones de sugerencias: desde Google o desde lista fija. 
 - Que permita setear la segunda columna con el dato que se desee.
 
-Ejercicio 6
+Ejercicio 7
 ===========
 
 - QMainWindow que tenga programado un método que reciba una enumeración en su constructor (SUBLIME, DARK, GALERIA, CLASSIC) que permita combinar (por ejemplo, DARK|SUBLIME o DARK|GALERIA)
 
-Ejercicio 7
+Ejercicio 8
 ===========
 
 - Preparar instructivo de instalación de herramientas para el desarrollo en Android.
@@ -252,5 +276,7 @@ Desafío para el jueves 6 de octubre
 ===================================
 
 `Personas comparables <https://youtu.be/wEtAjT7Lwb4>`_ - Código `aquí <https://github.com/cosimani/Curso-PGE-2021/blob/main/desafios/PersonasComparables.rar?raw=true>`_
+
+- Entrar al siguiente `link para ver el registro de los mini exámenes <https://docs.google.com/spreadsheets/d/1Qza70R_ClLLmL0Cmw7cy4F1pwqAMejPwamK9Jmks4ic/edit?usp=sharing>`_ 
 
 
