@@ -106,6 +106,25 @@ Función callback
 	    ( * puntero_funcion )();  // Llama a la función apuntada
 	}
 
+
+**Array de punteros a función**
+
+- Los punteros a funciones se pueden agrupar en arreglos
+
+.. code-block:: c++	
+
+	int ( * afptr[ 10 ] )( int );    // array de 10 punteros a función
+
+- Los 10 punteros apuntan a funciones con el mismo prototipo
+- Permiten muchas variantes para invocar funciones
+
+.. code-block:: c++	
+
+	int a = afptr[ n ]( x );
+
+
+
+	
 Ejercicio 1:
 ============
 
@@ -134,20 +153,7 @@ Ejercicio 1:
 	// Este método ordenará los elementos
 
 
-**Array de punteros a función**
 
-- Los punteros a funciones se pueden agrupar en arreglos
-
-.. code-block:: c++	
-
-	int ( * afptr[ 10 ] )( int );    // array de 10 punteros a función
-
-- Los 10 punteros apuntan a funciones con el mismo prototipo
-- Permiten muchas variantes para invocar funciones
-
-.. code-block:: c++	
-
-	int a = afptr[ n ]( x );
 	
 Ejercicio 2:
 ============
