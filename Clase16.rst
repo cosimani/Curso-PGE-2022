@@ -171,4 +171,7 @@ Ejercicio 2:
 
 
 
+Listado de ejercicios PGE
+=========================
 
+- `Ejercicios aquí <https://github.com/cosimani/Curso-PGE-2022/blob/main/Ejercicios.rst>`_
