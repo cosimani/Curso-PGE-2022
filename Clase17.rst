@@ -237,18 +237,17 @@ Conversatorio del jueves 13 de octubre
 ======================================
 
 - Compartir experiencias laborales, entrevistas, cursos, tendencias, requisitos, innovaciones, motivaciones, ...
-
-- Francisco Andreoli: Entrevista laboral y presentación
-- Matias: ¿Cómo es tu día a día en el trabajo?
-- Lucía: ONIET
-- Santiago Schuf: ¿AWS es un camino que hay que tomar?
-- Francisco Aguiar: Cursos de capacitación.
-- Tomás: ¿Qué hay en el mundo Unity?
-- Santiago Arteta: Desarrollo web para ASOMA y trabajo en empresa.
-- Ignacio: ¿A qué te querés dedicar?
-- Luciano: ¿En qué negocio te gustaría estar?
-- Marcos: ¿Qué oportunidades hay con los sistemas embebidos?
-- Luis: ¿Cómo es tu trabajo en empresa?
+	- Francisco Andreoli: Entrevista laboral y presentación
+	- Matias: ¿Cómo es tu día a día en el trabajo?
+	- Lucía: ONIET
+	- Santiago Schuf: ¿AWS es un camino que hay que tomar?
+	- Francisco Aguiar: Cursos de capacitación.
+	- Tomás: ¿Qué hay en el mundo Unity?
+	- Santiago Arteta: Desarrollo web para ASOMA y trabajo en empresa.
+	- Ignacio: ¿A qué te querés dedicar?
+	- Luciano: ¿En qué negocio te gustaría estar?
+	- Marcos: ¿Qué oportunidades hay con los sistemas embebidos?
+	- Luis: ¿Cómo es tu trabajo en empresa?
 
 
 
