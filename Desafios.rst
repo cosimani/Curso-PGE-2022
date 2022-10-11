@@ -38,21 +38,21 @@ Tema 1 - ``Templates``
 
 Tema 2 - ``Sobrecarga de operadores``
 
-Tema 3 - ``Contructor copia y operador de asignación``
+Tema 3 - ``Contructor copia`` y ``operador de asignación``
 
 Tema 4 - ``Diseño genérico de clases (por ejemplo: Login independiente)``
 
 Tema 5 - ``Creación y uso de librerías compartidas``
 
-Tema 6 - ``static``
+Tema 6 - ``Captura de eventos`` y uso de ``eventFilter``
 
-Tema 7 - ``Singleton``
+Tema 7 - ``static`` y ``Singleton``
 
-Tema 8 - ``Captura de eventos con eventFilter``
+Tema 8 - ``Punteros a funciones``
 
-Tema 9 - ``Punteros a funciones``
+Tema 9 - ``Excepciones``
 
-Tema 10 - ``Excepciones``
+Tema 10 - ``GUI`` y ``OpenGL``
 
  
 ==========
