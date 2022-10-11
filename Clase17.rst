@@ -229,7 +229,7 @@ Ejercicio 5:
 Ejercicio 6:
 ============
 
-- Las expresiones equivalentes del tipo ``connect( sender, &Sender::valueChanged, receiver, &Receiver::updateValue );``
+- Las expresiones equivalentes del tipo ``connect( sender, &Sender::valueChanged, receiver, &Receiver::updateValue );`` se pueden usar
 - Modificar algún proyecto anterior para utilizar estas expresiones equivalentes.
 
 
