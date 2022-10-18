@@ -250,8 +250,8 @@ Conversatorio del jueves 13 de octubre
 	- Luis: ¿Cómo es tu trabajo en empresa?
 
 
-Desafío para el jueves 13 de octubre
-====================================
+Desafío para el próximo jueves que tengamos clases
+==================================================
 
 - Presentar uno de los ejercicios (elegir entre el 1, 2, 3 o 4).
 - Se presentará en el aula durante la clase.
