@@ -6,6 +6,10 @@ Clase 14 - PGE 2022
 ===================
 (Fecha: 29 de septiembre)
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`QThread 2021 <https://youtu.be/-lC1ADFMdKE>`_
 
 
 
