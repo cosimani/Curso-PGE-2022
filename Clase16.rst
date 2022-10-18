@@ -6,6 +6,12 @@ Clase 16 - PGE 2022
 ===================
 (Fecha: 6 de octubre)
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Punteros a funciones 2021 <https://youtu.be/wp4YMmPhz6k>`_
+
+
 
 Función callback
 ^^^^^^^^^^^^^^^^
