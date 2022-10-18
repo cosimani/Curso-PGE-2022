@@ -6,6 +6,11 @@ Clase 15 - PGE 2022
 ===================
 (Fecha: 4 de octubre)
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`typeid 2021 <https://youtu.be/u9bCdz6S6BY>`_
+
 
 
 
