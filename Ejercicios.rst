@@ -715,6 +715,87 @@ Ejercicio 47
 - Las expresiones equivalentes del tipo ``connect( sender, &Sender::valueChanged, receiver, &Receiver::updateValue );`` se pueden usar
 - Modificar algún proyecto anterior para utilizar estas expresiones equivalentes.
 
+Ejercicio 48
+============
+
+- Modificar la clase listado para que cuando sea necesario lance la excepción ExcRango cuando se intente acceder a un index fuera de rango. Probarlo luego en la función main.
+
+.. code-block:: c++
+
+	template < class T > class Listado  {
+	private:
+	    int cantidad;
+	    int libre;
+	    T * v;
+
+	public:
+	    Listado( int n = 10 ) : cantidad( n ), libre( 0 ), v( new T[ n ] )  {  }
+	    bool add( T nuevo );
+
+	    T get( int i )  {
+	        if ( i >= libre )
+	            throw ExcRango( "Listado fuera de rango", i );
+	        return v[ i ];
+	    }
+
+	    int length()  {  return libre;  }
+	};
+
+	template < class T > bool Listado< T >::add( T nuevo )  {
+	    if ( libre < cantidad )  {
+	        v[ libre ] = nuevo;
+	        libre++;
+	        return true;
+	    }
+	    return false;
+	}
+
+
+Ejercicio 49
+============
+
+- Utilizar la siguiente clase Vector (sin modificarla) y, según lo visto en clase, mostrar la manera de averiguar la cantidad de elementos que tiene utilizando excepciones.
+
+
+.. code-block:: c++
+
+	// Este es el archivo vector.h
+
+	#ifndef VECTOR_H_
+	#define VECTOR_H_
+
+	#include <QVector>
+	#include <stdexcept>
+	#include <string>
+
+	template< class T > class Vector : private QVector< T >  {
+	public:
+	    const T get( int i )  {
+	        if ( i >= this->size() || i < 0 )  {
+	            std::string mensaje = "Le pagaste fuera";
+	            std::out_of_range e( mensaje );
+	            throw e;
+	        }
+
+	        return this->at( i );	        
+	    }
+
+	    void add( T nuevo )  {
+	        this->push_back( nuevo );
+	    }
+	};
+
+	#endif
+
+
+
+
+
+
+
+
+
+
 Trabajos prácticos varios
 =========================
 
