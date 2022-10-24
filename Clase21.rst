@@ -122,8 +122,8 @@ Tratamiento de excepciones
 	    return 0;
 	}
 	
-Ejercicio:
-==========
+Ejercicio 1:
+============
 
 - Modificar la clase listado para que cuando sea necesario lance la excepción ExcRango cuando se intente acceder a un index fuera de rango. Probarlo luego en la función main.
 
@@ -158,8 +158,8 @@ Ejercicio:
 	}
 
 
-Ejercicio:
-==========
+Ejercicio 2:
+============
 
 - Utilizar la siguiente clase Vector (sin modificarla) y, según lo visto en clase, mostrar la manera de averiguar la cantidad de elementos que tiene utilizando excepciones.
 
