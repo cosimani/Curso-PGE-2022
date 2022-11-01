@@ -788,6 +788,43 @@ Ejercicio 49
 	#endif
 
 
+Ejercicio 50
+============
+
+- Crear una aplicación con un QCameraViewfinder promovido a QWidget en QtDesigner
+- Un botón "Mostrar imagen" para que encienda la cámara y muestre la imagen
+- Que complete un QComboBox con las cámaras disponibles
+- Un QPushButton para iniciar la cámara seleccionada
+
+
+Ejercicio 51
+============
+
+- Siguiendo el ejercicio anterior, crear una carpeta donde se irán guardando las imágenes de la cámara
+- Colocar un QSlider con rango entre 500 y 5000, paso de 500, que indica una cantidad en milisegundos
+- Descargar en el disco las imágenes en archivos jpg cada un tiempo según el QSlider anterior
+- El nombre del archivo tendrá la fecha y hora en que fue capturada
+
+Ejercicio 52
+============
+
+- Siguiendo el ejercicio anterior, usar todas las imágenes de esa carpeta mostrándolas en un QWidget cada 100 mseg.
+
+
+Ejercicio 53
+============
+
+
+- Agregar un QPushButton "Capturar imagen" para procesarla
+- Dibujar con paintEvent esa imagen procesada 
+- Procesar la imagen con lo siguiente:
+	- Invertir los colores rgb a bgr
+	- Transformar a escala de grises
+		Y = 0.3 R + 0.3 G + 0.3 B // Y en cada componente
+	- Convertir al negativo: Cada componente, si lo leemos en binario, debemos invertir cada bit.
+		- Ejemplo: R=144=10010000 -> R=01101111
+
+
 
 
 
