@@ -100,5 +100,5 @@ Ejercicio 2:
 - En esa grilla de 6 celdas, todas esas celdas son objetos Frame.
 - 5 de ellos serán imágenes fijas cargadas desde el disco duro.
 - La restante serán las imágenes obtenidas en tiempo real desde la cámara.
-- La clase Frame tendrá un método ``modo`` que recibe una enumeración con dos opciones ``IMAGEN_FIJA`` o ``CAMARA```.
+- La clase Frame tendrá un método ``modo`` que recibe una enumeración con dos opciones ``IMAGEN_FIJA`` o ``CAMARA``.
 
