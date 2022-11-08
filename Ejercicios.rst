@@ -842,11 +842,39 @@ Ejercicio 55
 - La restante serán las imágenes obtenidas en tiempo real desde la cámara.
 - La clase Frame tendrá un método ``modo`` que recibe una enumeración con dos opciones ``IMAGEN_FIJA`` o ``CAMARA``.
 
+Ejercicio 56
+============
 
+- Dibujar un triángulo en el plano ``z=-50``
+- Utilizar el teclado para que al presionar la tecla C, el triángulo cambie de color.
 
+Ejercicio 57
+============
 
+- Dibujar un cajón deforme sin tapa con un color distinto en cada lado.
+- Utilizar el teclado para hacerlo rotar sobre los tres ejes.
 
+Ejercicio 58
+============
 
+- Marcar 4 puntos en la escena donde se haga clic con el mouse.
+- Ni bien se marque el 4to, automáticamente se generará el polígono de 4 vértices.
+- Con la tecla C se puede cambiar entre distintos colores de relleno.
+- Con A y D se rota sobre el eje Y.
+- Con W y S se rota sobre el eje X.
+
+Ejercicio 59
+============
+
+- Dibujar un cuadrado cualquiera en el plano z=-2.
+- Controlar la posición de la cámara con las teclas.
+- La cámara siempre vertical y mirando al punto ( 0, 0, -100 ).
+
+Ejercicio 60
+============
+
+- Dibujar una ruta con la línea blanca interrumpida.
+- Con las teclas Up y Down acelerar y frenar
 
 
 
