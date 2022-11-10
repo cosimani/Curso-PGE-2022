@@ -6,6 +6,16 @@ Clase 24 - PGE 2022
 ===================
 (Fecha: 8 de noviembre)
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`OpenGL 2022 <https://youtu.be/o5J5zm7UAbU>`_
+
+Código fuente en relación a la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Primer programa con OpenGL <https://github.com/cosimani/Curso-PGE-2022/blob/main/recursos/opengl_8nov2022.rar?raw=true>`_
+
 
 Graficación 3D
 ==============

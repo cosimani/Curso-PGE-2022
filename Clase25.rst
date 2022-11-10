@@ -6,6 +6,18 @@ Clase 25 - PGE 2022
 ===================
 (Fecha: 10 de noviembre)
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`OpenGL 2022 <https://youtu.be/o5J5zm7UAbU>`_
+
+
+Código fuente en relación a la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`gluPrespective <https://github.com/cosimani/Curso-PGE-2022/blob/main/recursos/camaraOgl.rar?raw=true>`_
+
+
 
 
 Rotación de la escena
