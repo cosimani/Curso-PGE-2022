@@ -205,7 +205,7 @@ Modelo de sombreado
 	                GLdouble haciaX, GLdouble haciaY, GLdouble haciaZ, 
 	                GLdouble upX, GLdouble upY, GLdouble upZ )
 				   
-.. figure:: images/clase22/lookat.png		
+.. figure:: images/lookat.png		
 
 **Ejercicio 3**
 

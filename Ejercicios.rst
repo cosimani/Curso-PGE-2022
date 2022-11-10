@@ -876,6 +876,12 @@ Ejercicio 60
 - Dibujar una ruta con la línea blanca interrumpida.
 - Con las teclas Up y Down acelerar y frenar
 
+Ejercicio 61
+============
+
+- Dibujar un triángulo dentro del campo de visión de la escena.
+- Active un temporizador (100 ms) para que gire 3° el triángulo sobre el eje z.	
+
 
 
 Trabajos prácticos varios
