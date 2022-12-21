@@ -38,7 +38,7 @@ Tema 1 - ``Templates``
 
 Tema 2 - ``Sobrecarga de operadores``
 
-Tema 3 - ``Contructor copia`` y ``operador de asignación``
+Tema 3 - ``Constructor copia`` y ``operador de asignación``
 
 Tema 4 - ``Diseño genérico de clases (por ejemplo: Login independiente)``
 
